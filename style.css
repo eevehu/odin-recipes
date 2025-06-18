@@ -1,15 +1,30 @@
 * {
-    box-sizing: border-box;
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
     text-align: center;
+    background-color: rgb(50, 50, 50);
+    color: white;
+    box-sizing: border-box;
     font-family: sans-serif, "Times New Roman", serif;
 }
 
 h1 {
-
+    color: green;
 }
-
+h4, .preamble {
+    margin: 10px 0px;
+}
+div li {
+    padding: 8px 0;
+}
 li {
     list-style-type: none;
-    padding: 8px 0;
     margin-left: -24px;
+}
+a {
+    color: yellow;
+}
+.ingredients, .ingredients li {
+    margin: 10px -20px;
 }
