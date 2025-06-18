@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: sans-serif, "Times New Roman", serif;
+}
+
+h1 {
+
+}
+
+li {
+    list-style-type: none;
+    padding: 8px 0;
+    margin-left: -24px;
+}
